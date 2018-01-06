@@ -1,6 +1,6 @@
 /**
- * 210201033-210201048
- * Merve Can-Turkan Demirci
+ * 210201033
+ * Merve Can
  */
 
 
